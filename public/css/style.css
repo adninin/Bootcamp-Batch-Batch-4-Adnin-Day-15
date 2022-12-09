@@ -1,0 +1,8 @@
+.content {
+    position: relative;
+  }
+  #right-panel-link {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
